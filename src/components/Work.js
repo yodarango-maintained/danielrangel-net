@@ -207,7 +207,7 @@ const closeDesc3 =  () =>{
                     <div className = {description.childClassThree}><div className = 'work-wrapper_svg'></div>CSS</div>
                     <div className = {description.childClassFour}><div className = 'work-wrapper_svg'></div>Vanilla Javascript</div>
                     <a href = 'http://www.xolproperties.com' className = {description.childClassFive}><div className = 'work-wrapper_svg'></div>see it live</a>
-                    <a href = 'https://www.github.com' className = {description.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
+                    <a href = 'https://github.com/yodarango/xolproperties' className = {description.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
                 </div>
             </div>
              {/*============= LINK TWO =========*/}
@@ -220,7 +220,7 @@ const closeDesc3 =  () =>{
                     <div className = {description2.childClassThree}><div className = 'work-wrapper_svg'></div>React</div>
                     <div className = {description2.childClassFour}><div className = 'work-wrapper_svg'></div>Node.js</div>
                     <a href = 'http://www.xharcoal.com' className = {description2.childClassFive}><div className = 'work-wrapper_svg'></div>see it live</a>
-                    <a href = 'https://www.github.com' className = {description2.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
+                    <a href = 'https://github.com/yodarango/xharcoal' className = {description2.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
                 </div>
             </div>
 
@@ -234,7 +234,7 @@ const closeDesc3 =  () =>{
                     <div className = {description3.childClassThree}><div className = 'work-wrapper_svg'></div>Vanilla Javascript</div>
                     <div className = {description3.childClassFour}><div className = 'work-wrapper_svg'></div>Node.js</div>
                     <a href = 'http://www.rangeledamiracle.com' className = {description3.childClassFive}><div className = 'work-wrapper_svg'></div>see it live</a>
-                    <a href = 'https://www.github.com' className = {description3.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
+                    <a href = 'https://github.com/yodarango/rangeledamiracle' className = {description3.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
                 </div>
             </div>
 
@@ -248,7 +248,7 @@ const closeDesc3 =  () =>{
                     <div className = {description4.childClassThree}><div className = 'work-wrapper_svg'></div>Vanilla Javascript</div>
                     <div className = {description4.childClassFour}><div className = 'work-wrapper_svg'></div>Node.js</div>
                     <a href = 'http://www.savvysaute.com' className = {description4.childClassFive}><div className = 'work-wrapper_svg'></div>see it live</a>
-                    <a href = 'https://www.github.com' className = {description4.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
+                    <a href = 'https://github.com/yodarango/savvy-saute' className = {description4.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
                 </div>
             </div>
         </div>
