@@ -219,7 +219,7 @@ const closeDesc3 =  () =>{
                     <div className = {description2.childClassTwo}><div className = 'work-wrapper_svg'></div>Express</div>
                     <div className = {description2.childClassThree}><div className = 'work-wrapper_svg'></div>React</div>
                     <div className = {description2.childClassFour}><div className = 'work-wrapper_svg'></div>Node.js</div>
-                    <a href = 'http://www.nswhitley.com' className = {description2.childClassFive}><div className = 'work-wrapper_svg'></div>see it live</a>
+                    <a href = 'http://www.xharcoal.com' className = {description2.childClassFive}><div className = 'work-wrapper_svg'></div>see it live</a>
                     <a href = 'https://www.github.com' className = {description2.childClassSix}><div className = 'work-wrapper_svg'></div>go git it</a>
                 </div>
             </div>
